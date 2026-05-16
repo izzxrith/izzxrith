@@ -81,13 +81,10 @@ CareLink+ was designed to support special needs students at SK Pinji, Ipoh by im
 
 ---
 
-# 📊 GitHub Stats
+# ⚡ Fun Fact
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=izzxrith&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzxrith&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+Outside of tech, I’m also an amateur boxer.  
+Boxing taught me discipline, consistency and how to stay calm under pressure the skills I also apply in software development.
 
 ---
 
