@@ -63,7 +63,7 @@ A promotional website developed to introduce and explain the purpose of CareLink
 ## 📱 CareLink+
 Final Year Project developed during JTMK ICE I 2026/2027.
 
-CareLink+ was designed to support special needs students at SK Pinji, Ipoh by improving communication, monitoring, and accessibility between teachers, parents, and students.
+CareLink+ was designed to support special needs students at SK Pinji, Ipoh by improving communication, monitoring and accessibility between teachers, parents, and students.
 
 ### Project Goals
 - Improve accessibility
@@ -78,13 +78,6 @@ CareLink+ was designed to support special needs students at SK Pinji, Ipoh by im
 - Improve backend and database architecture skills
 - Learn modern frameworks and deployment workflows
 - Contribute to collaborative development environments
-
----
-
-# ⚡ Fun Fact
-
-Outside of tech, I’m also an amateur boxer.  
-Boxing taught me discipline, consistency and how to stay calm under pressure the skills I also apply in software development.
 
 ---
 
