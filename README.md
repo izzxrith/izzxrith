@@ -36,7 +36,6 @@ Currently exploring:
 ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
 ![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
