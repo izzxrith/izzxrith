@@ -9,7 +9,7 @@ Passionate about building practical software, mobile applications and meaningful
 🏆 Best Overall Project — JTMK ICE I 2026/2027  
 🥉 4th Place — Huawei x UMPSA Mobile Apps Hackathon 2025  
 💻 Focused on backend systems, mobile apps and scalable software  
-🥊 Amateur Boxer — discipline, consistency and resilience shape how I work and learn
+🥊 Professional Boxer — discipline, consistency and resilience shape how I work and learn
 
 </div>
 
