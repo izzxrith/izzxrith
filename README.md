@@ -95,14 +95,6 @@ CareLink+ was designed to support special needs students at SK Pinji, Ipoh by im
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=izzxrith&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=izzxrith&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🎯 Current Goals
 
