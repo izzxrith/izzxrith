@@ -63,7 +63,7 @@ My focus areas are **website development, mobile development and REST APIs**. I 
 ## 📌 Featured Projects
 
 ### 🏆 CareLink+ — *Best Overall Project, JTMK ICE I 2026/2027*
-> A mobile healthcare application designed to improve communication and accessibility between patients and healthcare services. Ranked **#1 out of 40+ teams** — judged on technical depth, innovation, teamwork and real-world impact.
+> A mobile healthcare application designed to improve communication and accessibility between patients and healthcare services. Ranked **#1 out of 40+ teams** which is judged on technical depth, innovation, teamwork and real-world impact.
 
 `Java` `Android` `REST API` `MySQL` `UI/UX`
 
@@ -72,7 +72,7 @@ My focus areas are **website development, mobile development and REST APIs**. I 
 ---
 
 ### 🥊 FightTrack
-> Gym and boxing training tracker with a full dashboard. Built from personal experience as a boxer — tracks sessions, performance metrics and fight records over time.
+> Gym and boxing training tracker with a full dashboard. Built from personal experience as a boxer which can tracks sessions, performance metrics and fight records over time.
 
 `PHP` `MySQL` `Bootstrap` `JavaScript`
 
@@ -81,7 +81,7 @@ My focus areas are **website development, mobile development and REST APIs**. I 
 ---
 
 ### 🌐 CareLink+ Promotional Website
-> A responsive promotional website for the CareLink+ app — showcasing its features, goals and impact for special needs education support.
+> A responsive promotional website for the CareLink+ app showcasing its features, goals and impact for special needs education support.
 
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
