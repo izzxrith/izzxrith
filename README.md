@@ -1,121 +1,118 @@
 <div align="center">
 
-# Hi, I'm Ayet 👋
+# Hi, I'm Izzarith 👋
 
-### Software Development Student & Aspiring Full-Stack Developer
+### Software Developer · Mobile App Builder · Amateur Boxer 🥊
 
-Passionate about building practical software, mobile applications and meaningful digital experiences.
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayet.me-e8ff47?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ayet.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-izzarith-95551b282/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izzarith04@gmail.com)
 
-🏆 Best Overall Project — JTMK ICE I 2026/2027  
-🥉 4th Place — Huawei x UMPSA Mobile Apps Hackathon 2025  
-💻 Focused on backend systems, mobile apps and scalable software  
-🥊 Professional Boxer — discipline, consistency and resilience shape how I work and learn
+<br/>
+
+🏆 **Best Overall Project** — JTMK ICE I 2026/2027 *(40+ competing teams)*
+🥉 **4th Place** — Huawei × UMPSA Mobile Apps Hackathon 2025
+🎓 **4.00 CGPA** — Diploma in IT, Politeknik Ungku Omar
+🥊 **Amateur Boxer** — discipline and consistency in and out of the ring
 
 </div>
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm a Software Development student from Malaysia passionate about building practical applications that solve real-world problems.
+I'm a **Software Development graduate from Malaysia** passionate about building practical applications that solve real-world problems.
 
-My interests include backend systems, mobile development, UI/UX and scalable application architecture. I enjoy turning ideas into usable products while continuously improving my technical skills through hands-on projects.
+My focus areas are **backend systems, mobile development, and REST APIs**. I enjoy turning ideas into usable products and continuously improving through hands-on projects — from award-winning final year projects to hackathon builds under pressure.
 
----
-
-# 🔨 Currently Working On
-
-- Improving backend development skills
-- Building personal portfolio projects
-- Learning API integration and deployment
-- Exploring modern full-stack workflows
+- 🌐 Portfolio: **[ayet.me](https://ayet.me)**
+- 📍 Based in **Malaysia**
+- 🔍 Looking for: **Software Developer · Junior Engineer · Mobile App Developer**
+- 📬 Reach me: **izzarith04@gmail.com**
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="left">
 
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-111?style=for-the-badge&logo=cplusplus)
-![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-111?style=for-the-badge&logo=mysql)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3)
-![Git](https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Android](https://img.shields.io/badge/Android-111111?style=for-the-badge&logo=android&logoColor=3DDC84)
+![REST API](https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-111111?style=for-the-badge&logo=androidstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🩺 CareLink+ Promotional Website
+### 🏆 CareLink+ — *Best Overall Project, JTMK ICE I 2026/2027*
+> A mobile healthcare application designed to improve communication and accessibility between patients and healthcare services. Ranked **#1 out of 40+ teams** — judged on technical depth, innovation, teamwork and real-world impact.
 
-A promotional website developed to introduce and explain the purpose of CareLink+, including its features, objectives and impact for special needs education support.
+`Java` `Android` `REST API` `MySQL` `UI/UX`
 
-### Key Features
-- Responsive modern UI
-- Accessibility-focused design
-- Informational landing page structure
-- Mobile-friendly interface
-
-### Tech Stack
-- HTML
-- CSS
-- JavaScript
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-111111?style=flat-square&logo=github)](https://github.com/izzxrith/carelinkapps_)
 
 ---
 
-## 📱 CareLink+
+### 🥊 FightTrack
+> Gym and boxing training tracker with a full dashboard. Built from personal experience as a boxer — tracks sessions, performance metrics and fight records over time.
 
-Final Year Project developed during JTMK ICE I 2026/2027.
+`PHP` `MySQL` `Bootstrap` `JavaScript`
 
-CareLink+ was designed to support special needs students at SK Pinji, Ipoh by improving communication, monitoring and accessibility between teachers, parents and students.
-
-### Project Goals
-- Improve accessibility
-- Support special education environments
-- Enhance communication systems
-- Improve monitoring between teachers and parents
-
-### Tech Stack
-- PHP
-- MySQL
-- HTML/CSS
-- JavaScript
-
-### My Contributions
-- Designed responsive UI/UX
-- Developed frontend interfaces
-- Assisted with database structure
-- Implemented core application features
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-111111?style=flat-square&logo=github)](https://github.com/izzxrith/FightTrack)
 
 ---
 
+### 🌐 CareLink+ Promotional Website
+> A responsive promotional website for the CareLink+ app — showcasing its features, goals and impact for special needs education support.
 
-# 🎯 Current Goals
+`HTML` `CSS` `JavaScript` `Bootstrap`
 
-- Build more production-ready applications
-- Improve backend and database architecture skills
-- Learn modern frameworks and deployment workflows
-- Contribute to collaborative development environments
-- Strengthen problem-solving and software engineering fundamentals
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-111111?style=flat-square&logo=github)](https://github.com/izzxrith/CareLinkPlus-)
 
 ---
 
-# 🌐 Connect With Me
+## 📊 GitHub Stats
 
-<p align="left">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/muhammad-izzarith-95551b282/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+![Izzarith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzxrith&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=222222&icon_color=e8ff47&title_color=e8ff47&text_color=f0f0f0)
 
-<a href="mailto:izzarith04@gmail.com">
-  <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzxrith&layout=compact&theme=dark&bg_color=0a0a0a&border_color=222222&title_color=e8ff47&text_color=f0f0f0)
 
-</p>
+</div>
+
+---
+
+## 🎯 Currently Working On
+
+- 🔨 Improving backend and database architecture skills
+- 🌱 Learning modern full-stack workflows (Next.js, REST APIs)
+- 🚀 Building more production-ready projects
+- 🤝 Looking for my first industry role
+
+---
+
+<div align="center">
+
+*"Every bug is a round you have to win."*
+
+**[ayet.me](https://ayet.me)** · Malaysia 🇲🇾
+
+</div>
