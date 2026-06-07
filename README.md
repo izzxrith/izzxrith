@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izzarith04@gmail.com)
 
 <br/>
+
 🏆 **Best Overall Project** — JTMK ICE I 2026/2027 *(40+ competing teams)*
 🥉 **4th Place** — Huawei × UMPSA Mobile Apps Hackathon 2025
 
