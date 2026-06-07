@@ -2,7 +2,7 @@
 
 # Hi, I'm Izzarith 👋
 
-### Software Developer · Mobile App Builder · Amateur Boxer 🥊
+### Software Developer · Website Developer · Professional Boxer 🥊
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayet.me-e8ff47?style=for-the-badge&logo=googlechrome&logoColor=black)](https://ayet.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-izzarith-95551b282/)
@@ -11,8 +11,11 @@
 <br/>
 
 🏆 **Best Overall Project** — JTMK ICE I 2026/2027 *(40+ competing teams)*
+
 🥉 **4th Place** — Huawei × UMPSA Mobile Apps Hackathon 2025
+
 🎓 **4.00 CGPA** — Diploma in IT, Politeknik Ungku Omar
+
 🥊 **Amateur Boxer** — discipline and consistency in and out of the ring
 
 </div>
