@@ -11,11 +11,9 @@
 <br/>
 
 🏆 **Best Overall Project** — JTMK ICE I 2026/2027 *(40+ competing teams)*
-
 🥉 **4th Place** — Huawei × UMPSA Mobile Apps Hackathon 2025
 
 🎓 **4.00 CGPA** — Diploma in IT, Politeknik Ungku Omar
-
 🥊 **Professional Boxer** — discipline and consistency in and out of the ring
 
 </div>
