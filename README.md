@@ -16,7 +16,7 @@
 
 🎓 **4.00 CGPA** — Diploma in IT, Politeknik Ungku Omar
 
-🥊 **Amateur Boxer** — discipline and consistency in and out of the ring
+🥊 **Professional Boxer** — discipline and consistency in and out of the ring
 
 </div>
 
@@ -26,11 +26,11 @@
 
 I'm a **Software Development graduate from Malaysia** passionate about building practical applications that solve real-world problems.
 
-My focus areas are **backend systems, mobile development, and REST APIs**. I enjoy turning ideas into usable products and continuously improving through hands-on projects — from award-winning final year projects to hackathon builds under pressure.
+My focus areas are **website development, mobile development and REST APIs**. I enjoy turning ideas into usable products and continuously improving through hands-on projects from award-winning final year projects to hackathon builds under pressure.
 
 - 🌐 Portfolio: **[ayet.me](https://ayet.me)**
 - 📍 Based in **Malaysia**
-- 🔍 Looking for: **Software Developer · Junior Engineer · Mobile App Developer**
+- 🔍 Looking for: **Software Developer · Junior Engineer · Website Developer**
 - 📬 Reach me: **izzarith04@gmail.com**
 
 ---
@@ -88,18 +88,6 @@ My focus areas are **backend systems, mobile development, and REST APIs**. I enj
 `HTML` `CSS` `JavaScript` `Bootstrap`
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-111111?style=flat-square&logo=github)](https://github.com/izzxrith/CareLinkPlus-)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Izzarith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=izzxrith&show_icons=true&theme=dark&bg_color=0a0a0a&border_color=222222&icon_color=e8ff47&title_color=e8ff47&text_color=f0f0f0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=izzxrith&layout=compact&theme=dark&bg_color=0a0a0a&border_color=222222&title_color=e8ff47&text_color=f0f0f0)
-
-</div>
 
 ---
 
