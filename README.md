@@ -3,7 +3,6 @@
 # Hi, I'm Izzarith 👋
 
 ### Software Developer · Professional Boxer 🥊
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayet.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayet.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-izzarith-95551b282/)
 [![Email](https://img.shields.io/badge/Email-izzarith04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izzarith04@gmail.com)
