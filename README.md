@@ -48,7 +48,7 @@ A mobile healthcare system for special needs students featuring real-time vitals
 
 A SaaS platform for boxing gyms to manage fighters, track training sessions and analyze performance. Each gym's data is fully isolated.
 
-- **Tech:** Next.js 14, TypeScript, Prisma, Supabase (PostgreSQL), Tailwind CSS
+- **Tech:** Next.js 16, TypeScript, Prisma, Supabase (PostgreSQL), Tailwind CSS
 - **Architecture:** Multi-tenant row-level security, Zod validation, bcrypt hashing.
 - **Status:** Building towards public beta launch.
 
