@@ -85,7 +85,7 @@ Marketing website and quote management system built for a cleaning services comp
 ---
 
 <div align="center">
-  
+<br>
 <div align="center">
   <img src="https://raw.githubusercontent.com/izzxrith/izzxrith/output/snake.svg" alt="Contribution Snake" />
 </div>
