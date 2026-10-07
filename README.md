@@ -1,26 +1,26 @@
 <div align="center">
 
-# Hi, I'm Izzarith 👋
+# Hi, I'm Izzarith 
 
-### Software Developer · Professional Boxer 🥊
+### Software Developer · Professional Boxer 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayet.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayet.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-izzarith-95551b282/)
 [![Email](https://img.shields.io/badge/Email-izzarith04@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:izzarith04@gmail.com)
 
 <br/>
 
-🏆 **Best Overall Project** — JTMK ICE I 2026/2027 *(#1 of 40+ teams)*  
-🥉 **4th Place** — Huawei × UMPSA Mobile Apps Hackathon 2025  
-🥉 **3rd Place** — Hackathon Digitech Nusa 2026  
-🎓 **4.00 CGPA** — Diploma in IT (Software and Development), Politeknik Ungku Omar  
+**Best Overall Project** — JTMK ICE I 2026/2027 *(#1 of 40+ teams)*  
+**4th Place** — Huawei × UMPSA Mobile Apps Hackathon 2025  
+**3rd Place** — Hackathon Digitech Nusa 2026  
+**4.00 CGPA** — Diploma in IT (Software and Development), Politeknik Ungku Omar  
 
-📍 Based in **Malaysia** | 🎯 Seeking **Junior Software Developer / Junior Full Stack Developer / Web Developer** roles
+Based in **Malaysia** | Seeking **Junior Software Developer / Junior Full Stack Developer / Web Developer** roles
 
 </div>
 
 ---
 
-## 💡 About Me
+## About Me
 
 I build **production-ready web applications** with a focus on clean architecture and user impact. My background in professional boxing drives my discipline, I ship code consistently, debug relentlessly and always finish what I start.
 
@@ -28,9 +28,9 @@ I build **production-ready web applications** with a focus on clean architecture
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏆 CareLink+ — Predictive Healthcare Platform
+### CareLink+ - Predictive Healthcare Platform
 *Ranked #1 out of 40+ teams at JTMK ICE I 2026/2027*
 
 A mobile healthcare system for special needs students featuring real-time vitals monitoring, predictive wandering alerts and emotion analysis.
@@ -43,7 +43,7 @@ A mobile healthcare system for special needs students featuring real-time vitals
 
 ---
 
-### 🥊 FightTrack SaaS — Multi-Tenant Gym Management
+### FightTrack SaaS - Multi-Tenant Gym Management
 *Active Development | Modern Full-Stack*
 
 A SaaS platform for boxing gyms to manage fighters, track training sessions and analyze performance. Each gym's data is fully isolated.
@@ -56,7 +56,20 @@ A SaaS platform for boxing gyms to manage fighters, track training sessions and 
 
 ---
 
-## 🛠️ Tech Stack
+### WF Uwais Enterprise - Real Client Project
+
+Live in production | Client work
+
+Marketing website and quote management system built for a cleaning services company in Seremban, Negeri Sembilan. Real client, real users, deployed and used daily.
+
+- **Tech:** Next.js 16, TypeScript, Prisma, PostgreSQL (Supabase), Tailwind CSS, JWT auth
+- **Features:** Quote form -> PostgreSQL persistence, WhatsApp-first flow with pre-filled message, admin dashboard with role-based access, honeypot spam protection, local SEO
+- **Deployed:** Vercel
+- **Live:** [wf-uwais-website.vercel.app](https://wf-uwais-website.vercel.app/)
+
+---
+
+## Tech Stack
 
 <div align="left">
 
