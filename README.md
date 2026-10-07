@@ -85,11 +85,10 @@ Marketing website and quote management system built for a cleaning services comp
 ---
 
 <div align="center">
-<br>
-<div align="center">
   <img src="https://raw.githubusercontent.com/izzxrith/izzxrith/output/snake.svg" alt="Contribution Snake" />
 </div>
 
+<div align="center">
 *"Every bug is a round you have to win."*
 
 **[Portfolio](https://ayet.me)** · **[LinkedIn](https://www.linkedin.com/in/muhammad-izzarith-95551b282/)**
