@@ -90,4 +90,8 @@ Marketing website and quote management system built for a cleaning services comp
 
 **[Portfolio](https://ayet.me)** · **[LinkedIn](https://www.linkedin.com/in/muhammad-izzarith-95551b282/)**
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/izzxrith/izzxrith/output/snake.svg" alt="Contribution Snake" />
+</div>
+
 </div>
