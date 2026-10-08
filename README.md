@@ -9,10 +9,10 @@
 
 <br/>
 
-**Best Overall Project** — JTMK ICE I 2026/2027 *(#1 of 40+ teams)*  
-**4th Place** — Huawei × UMPSA Mobile Apps Hackathon 2025  
-**3rd Place** — Hackathon Digitech Nusa 2026  
-**4.00 CGPA** — Diploma in IT (Software and Development), Politeknik Ungku Omar  
+**Best Overall Project** - JTMK ICE I 2026/2027 *(#1 of 40+ teams)*  
+**4th Place** - Huawei × UMPSA Mobile Apps Hackathon 2025  
+**3rd Place** - Hackathon Digitech Nusa 2026  
+**4.00 CGPA** - Diploma in IT (Software and Development), Politeknik Ungku Omar  
 
 Based in **Malaysia** | Seeking **Junior Software Developer / Junior Full Stack Developer / Web Developer** roles
 
@@ -36,7 +36,7 @@ I build **production-ready web applications** with a focus on clean architecture
 A mobile healthcare system for special needs students featuring real-time vitals monitoring, predictive wandering alerts and emotion analysis.
 
 - **Tech:** Java, Android, Firebase Firestore, Google Maps API
-- **Impact:** Designed for 200+ students; reduced reactive emergency responses by 40% through predictive alerts.
+- **Impact:** Designed for 200+ students and reduced reactive emergency responses by 40% through predictive alerts.
 - **Key Challenge:** Implemented dual-device sync (Wear OS + Phone) with <2s latency for live GPS/BPM streaming.
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Code-181717?style=flat-square&logo=github)](https://github.com/izzxrith/carelinkapps_)
