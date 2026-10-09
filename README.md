@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Izzarith 
+# Hi, I'm Izzarith !
 
 ### Software Developer · Professional Boxer 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayet.me-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayet.me)
@@ -14,7 +14,7 @@
 **3rd Place** - Hackathon Digitech Nusa 2026  
 **4.00 CGPA** - Diploma in IT (Software and Development), Politeknik Ungku Omar  
 
-Based in **Malaysia** | Seeking **Junior Software Developer / Junior Full Stack Developer / Web Developer** roles
+Based in **Malaysia** | Seeking **Junior Software Developer / Junior Full Stack Developer / Web Developer** roles - Kuala Lumpur / Selangor / Singapore
 
 </div>
 
