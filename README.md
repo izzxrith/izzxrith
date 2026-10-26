@@ -22,7 +22,7 @@ Based in **Malaysia** | Seeking **Junior Software Developer / Junior Full Stack 
 
 ## About Me
 
-I build **production-ready web applications** with a focus on clean architecture and user impact. My background in professional boxing drives my discipline, I ship code consistently, debug relentlessly and always finish what I start.
+I build **production-ready web applications** with a focus on clean architecture and user impact. My background in professional boxing drives my discipline, I ship code consistently, debug relentlessly and always finish what I start. I love something that thrills me and I plan to further my studies soon...
 
 **Core Stack:** TypeScript, Next.js, React, Node.js, PostgreSQL, Prisma.
 
